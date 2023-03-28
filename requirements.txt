@@ -1,0 +1,6 @@
+pip~=22.3.1
+attrs~=22.2.0
+Pillow~=9.4.0
+setuptools~=65.5.0
+mtranslate~=1.8
+docx~=0.2.4
